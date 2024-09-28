@@ -1,0 +1,15 @@
+C:\Users\frank\Documents\GitHub\MSS-C-\Ingresso\bin\Debug\net8.0\Ingresso.exe
+C:\Users\frank\Documents\GitHub\MSS-C-\Ingresso\bin\Debug\net8.0\Ingresso.deps.json
+C:\Users\frank\Documents\GitHub\MSS-C-\Ingresso\bin\Debug\net8.0\Ingresso.runtimeconfig.json
+C:\Users\frank\Documents\GitHub\MSS-C-\Ingresso\bin\Debug\net8.0\Ingresso.dll
+C:\Users\frank\Documents\GitHub\MSS-C-\Ingresso\bin\Debug\net8.0\Ingresso.pdb
+C:\Users\frank\Documents\GitHub\MSS-C-\Ingresso\obj\Debug\net8.0\Ingresso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\Documents\GitHub\MSS-C-\Ingresso\obj\Debug\net8.0\Ingresso.AssemblyInfoInputs.cache
+C:\Users\frank\Documents\GitHub\MSS-C-\Ingresso\obj\Debug\net8.0\Ingresso.AssemblyInfo.cs
+C:\Users\frank\Documents\GitHub\MSS-C-\Ingresso\obj\Debug\net8.0\Ingresso.csproj.CoreCompileInputs.cache
+C:\Users\frank\Documents\GitHub\MSS-C-\Ingresso\obj\Debug\net8.0\Ingresso.sourcelink.json
+C:\Users\frank\Documents\GitHub\MSS-C-\Ingresso\obj\Debug\net8.0\Ingresso.dll
+C:\Users\frank\Documents\GitHub\MSS-C-\Ingresso\obj\Debug\net8.0\refint\Ingresso.dll
+C:\Users\frank\Documents\GitHub\MSS-C-\Ingresso\obj\Debug\net8.0\Ingresso.pdb
+C:\Users\frank\Documents\GitHub\MSS-C-\Ingresso\obj\Debug\net8.0\Ingresso.genruntimeconfig.cache
+C:\Users\frank\Documents\GitHub\MSS-C-\Ingresso\obj\Debug\net8.0\ref\Ingresso.dll
